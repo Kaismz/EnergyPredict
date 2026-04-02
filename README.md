@@ -85,4 +85,4 @@ Exécuter les notebooks dans l'ordre : `01` → `02` → `03`
 
 ---
 
-*Projet réalisé dans le cadre du Master 1 Mathématiques & Applications — Ingénierie Statistique et Numérique, Université de Lille.*
+
